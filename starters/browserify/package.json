@@ -1,0 +1,15 @@
+{
+  "name": "hellosign-embedded-browserify-starter",
+  "version": "1.0.0",
+  "description": "A starter project for HelloSign Embedded using Browserify.",
+  "private": true,
+  "scripts": {
+    "build": "browserify src -o dist/bundle.js"
+  },
+  "dependencies": {
+    "hellosign-embedded": "^2.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3"
+  }
+}
