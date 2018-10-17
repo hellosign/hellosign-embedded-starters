@@ -25,7 +25,7 @@
     ```js
     require.config({
       paths: {
-        'hellosign-embedded': 'https://cdn.hellosign.com/js/hellosign-embedded/2.0.0/embedded.production.min',
+        'hellosign-embedded': 'https://cdn.hellosign.com/js/hellosign-embedded/v2.0.0/embedded.production.min',
       }
     });
     ```
